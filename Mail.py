@@ -36,7 +36,7 @@ def create_msg(company):
 		   "mail to you to apply for the position of a Data Analyst Intern at" \
 		   f"{company} as a part of my Summer Internship Program (21 May"\
 		   " 2020 to 16 July 2020). \n\nWarm regards\nRakhshanda\n"
-		   "+91 9007392826\n\nEnclosure: Resume")
+		   "+91 xxxxxxxxxx\n\nEnclosure: Resume")
 
 
 	#Attach the file:
